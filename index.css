@@ -24,15 +24,6 @@ body {
   margin-bottom: 20px;
 }
 
-#line2 {
-  border-left: 50px ;
-  height: 400px;
-  position: fixed;
-  left: 30%;
-  margin-left: -3px;
-  bottom: 0px;
-}
-
 #heading {
   margin-left: 45px;
 }
