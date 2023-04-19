@@ -1,12 +1,15 @@
 const dayContainer = document.getElementById("day");
 const messageContainer = document.getElementById("message");
+
 // --------------------------------------------
 
 let message;
 let day;
 
+
+
 function messages() {
-  switch (new Date().getDay()) {
+  switch (new Date( ).getDay()) {
     case 0:
       day = "Sunday";
       message =
